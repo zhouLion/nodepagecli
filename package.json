@@ -1,0 +1,27 @@
+{
+  "name": "nodepagecli",
+  "version": "0.0.1",
+  "description": "mirror git static page",
+  "main": "index.js",
+  "bin": {
+    "nodepage": "./bin/nodepage.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "zhouLion",
+  "license": "ISC",
+  "files": [
+    "lib",
+    "public",
+    ".bin",
+    "config"
+  ],
+  "dependencies": {
+    "@types/express": "^4.17.9",
+    "@types/node": "^14.14.16",
+    "express": "^4.17.1",
+    "simple-git": "^2.31.0"
+  }
+}

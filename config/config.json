@@ -1,0 +1,22 @@
+{
+    "port": 3000,
+    "//": "国内的gitee镜像速度飞起",
+    "mirrors": [
+        {
+            "repository": "https://gitee.com/mirrors/Vant.git",
+            "options": [
+                "--depth",
+                "1",
+                "-b",
+                "gh-pages"
+            ]
+        },
+        {
+            "repository": "https://gitee.com/sinohjw/echarts3-docs.git",
+            "options": [
+                "--depth",
+                "1"
+            ]
+        }
+    ]
+}
