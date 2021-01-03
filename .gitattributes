@@ -1,0 +1,2 @@
+# GitHub also highlights comments as errors by default. To fix that, add this line to your .gitattributes file
+api-extractor.json  linguist-language=JSON-with-Comments

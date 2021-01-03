@@ -4,3 +4,8 @@ lib/*
 
 package-lock.json
 yarn-lock
+tsconfig.tsbuildinfo
+tsdoc-metadata.json
+tsconfig.tsbuildinfo
+temp/nodepagecli.api.json
+temp/nodepagecli.api.md
